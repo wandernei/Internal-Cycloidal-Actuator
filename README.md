@@ -1,2 +1,4 @@
 # Internal-Cycloidal-Actuator
 Having designed many robotic actuators, one recurring challenge that I found is achieving compactness. Ideally, a robotic actuator should be as slim as possible, especially for legged robots. To fix this, I decided to try a new design approach. Instead of using an off-the-shelf BLDC motor for the actuator, I decided to build my own BLDC motor. This way, the gearbox can rest in the center of the motor thus making the actuator compact. In my opinion, this is the optimal actuator design as you can retain the power output of an off-the-shelf motor while making the actuator slimmer. I first saw this design scheme implemented in the MIT Mini Cheetah robot which has a 6:1 internal planetary gear set in the center of its actuators. This actuator uses an 8:1 cycloidal drive.
+
+![1](https://github.com/aaedmusa/Internal-Cycloidal-Actuator/assets/84678990/09dbe647-8f0d-49c1-9e2b-31c7999ce9f2)
